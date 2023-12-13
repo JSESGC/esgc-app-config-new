@@ -1,0 +1,239 @@
+{
+  "app.name": "ESG環友理",
+  "language": {
+    "short": "EN",
+    "en": "English",
+    "zh": "中文"
+  },
+  "environment": {
+    "local": "LOCAL",
+    "dev": "DEV",
+    "uat": "UAT",
+    "prod": "PROD"
+  },
+  "btn": {
+    "cancel": "取消",
+    "update": "更新",
+    "start": "開始使用",
+    "resend": "重新發送",
+    "retry": "%s秒後重試",
+    "next": "下一步",
+    "goto_settings": "去設置",
+    "transfer": "轉贈",
+    "notes": "記事本",
+    "done": "完成",
+    "view_more": "查看更多",
+    "check_in": "打卡",
+    "redeem": "兌換（{}）",
+    "sold_out": "無存貨",
+    "to_redeem": "去兌換",
+    "ok": "好的",
+    "confirm": "確認",
+    "logout": "登出",
+    "delete_account": "刪除帳戶"
+  },
+  "input": {
+    "mobile": {
+      "title": "電話號碼",
+      "hint": "電話號碼"
+    },
+    "company": {
+      "title": "公司",
+      "hint": "公司"
+    },
+    "id": {
+      "title": "員工ID",
+      "hint": "員工ID"
+    },
+    "name": {
+      "title": "員工名字",
+      "hint": "員工名字"
+    }
+  },
+  "login": {
+    "note": "請輸入您的電話號碼\n我們會發送一次性驗證碼"
+  },
+  "rule": {
+    "accept": "按「下一步」，即表示閣下接受我們的",
+    "terms_conditions": "條款及細則",
+    "and": "和",
+    "privacy_policy": "私隱政策",
+    "end": "。",
+    "collect_data": "您的資料將被收集以反映該公司的ESG表現。"
+  },
+  "terms_conditions": {
+    "title": "條款及細則",
+    "url": "/esgc-terms-of-use.pdf"
+  },
+  "privacy_policy": {
+    "title": "私隱政策",
+    "url": "/esgc-privacy-policy.pdf"
+  },
+  "otp": {
+    "sent_to_mobile": "請填寫我們發送到\n{}的一次性驗證碼"
+  },
+  "info": {
+    "note": "請填寫以下資料來核實您的身份"
+  },
+  "tab": {
+    "redemption": "兌換",
+    "contact": "通訊",
+    "scan": "掃描",
+    "home": "首頁",
+    "activity": "活動",
+    "profile": "我的"
+  },
+  "title": {
+    "redemption": "禮品兌換",
+    "events": "熱門活動",
+    "contact": "通訊",
+    "home": "ESG環友理",
+    "activity": "ESG獎賞活動",
+    "profile": "我的",
+    "qrcode": "二維碼",
+    "settings": "設置",
+    "asset_wallet": "我的資產",
+    "my_level": "我的級別",
+    "my_activity": "我的活動",
+    "redemption_history": "兌換歷史",
+    "transaction_history": "交易歷史",
+    "experience": "經驗值",
+    "start_datetime": "開始時間：{}",
+    "end_datetime": "結束時間：{}",
+    "attend_no": "參加次數：{}",
+    "e_coin": "E幣",
+    "s_coin": "S幣",
+    "g_coin": "G幣",
+    "coin": "金幣",
+    "coin_balance": "可兌換金幣餘額",
+    "coming_soon": "敬請期待"
+  },
+  "filter": {
+    "all": "全部",
+    "gift": "禮品",
+    "lucky_draw": "抽獎券",
+    "nft": "NFT",
+    "service": "服務",
+    "environmental": "環境",
+    "social": "社會",
+    "governance": "管治"
+  },
+  "subtitle": {
+    "more": "更多"
+  },
+  "scan": {
+    "title": "掃一掃",
+    "subtitle": "掃二維碼獲得獎賞"
+  },
+  "transaction": {
+    "title": "交易記錄",
+    "subtitle": "查看交易記錄"
+  },
+  "settings": {
+    "section": {
+      "general": "通用",
+      "information": "資料"
+    },
+    "tile": {
+      "environment": "環境",
+      "language": "語言",
+      "mode": "暗色模式",
+      "terms_conditions": {
+        "title": "條款及細則",
+        "url": "/esgc-terms-of-use.pdf"
+      },
+      "privacy_policy": {
+        "title": "私隱政策",
+        "url": "/esgc-privacy-policy.pdf"
+      },
+      "faq": {
+        "title": "常見問題",
+        "url": "/esgc-about-qa.pdf"
+      }
+    },
+    "version": "版本"
+  },
+  "permission": {
+    "camera": {
+      "title": "相機權限",
+      "content": "需要相機權限來掃碼，您可在設置中進行授權。"
+    }
+  },
+  "event": {
+    "start_date": "開始日",
+    "end_date": "截止日",
+    "empty": "暫時沒有活動"
+  },
+  "prize": {
+    "points": "{}金幣",
+    "sold_out": "沒有存貨"
+  },
+  "redeem": {
+    "points": "{}金幣",
+    "empty": "暫時沒有兌換"
+  },
+  "transactions": {
+    "points": "{}金幣",
+    "empty": "暫時沒有紀錄"
+  },
+  "profile": {
+    "points": "X{}"
+  },
+  "lucky_draw": {
+    "ticket_no": "奬券編號："
+  },
+  "dialog": {
+    "check_in": {
+      "title": "打卡成功",
+      "content": "從活動「{name}」中獲得{points}個{type}金幣"
+    },
+    "redeem": {
+      "title": "兌換成功",
+      "content": "使用{}個金幣兌換「{}」",
+      "ticket_no": "你的奬券編號：{}\n我們會在稍後時間以SMS短訊公報抽奬結果，請留意我們的手機短訊。"
+    },
+    "prize": {
+      "title": "兌換禮品",
+      "content": "確認使用{}個金幣兌換「{}」？"
+    },
+    "lucky_draw": {
+      "title": "兌換抽奖券",
+      "content": "確認使用{}個金幣兌換「{}」？"
+    }
+  },
+  "logout": {
+    "title": "登出",
+    "content": "您確定登出嗎？"
+  },
+  "delete_account": {
+    "title": "刪除帳戶",
+    "content": "您確定刪除帳戶嗎？",
+    "notice": "你的帳戶刪除請求已收到，處理完成後我們會通過短信通知您。在此期間，您的帳戶仍然可以使用。"
+  },
+  "inactive": {
+    "title": "您的帳戶已被鎖定",
+    "content": "您的帳戶已被鎖定，請聯繫inquiry@esg-c.org以解鎖。"
+  },
+  "exit": "再按一次退出",
+  "error": {
+    "title": "錯誤",
+    "network": "網絡錯誤",
+    "invalid_qrcode": "無效的二維碼",
+    "1003": "兌換禮品失敗！",
+    "1004": "不夠金幣兌換！",
+    "1005": "此二維碼不是你所屬的機構發出！",
+    "1006": "該禮品只可兌換一次！",
+    "1020": "該禮品已過兌換期！",
+    "1021": "該禮品已沒有存貨！",
+    "1022": "該禮品未可開始兌換！",
+    "1023": "該禮品已被下架！",
+    "1033": "此活動打卡失敗！",
+    "1034": "此二維碼不是你所屬的機構發出！",
+    "1040": "此活動已經完結！",
+    "1051": "此活動並未開始！",
+    "1052": "此活動的總打卡次數已超上限！",
+    "1053": "今天打卡次數已超過每日上限！",
+    "1054": "此活動只容許你打卡一次！",
+    "1055": "你需在{}小時后才可再次打卡！"
+  }
+}

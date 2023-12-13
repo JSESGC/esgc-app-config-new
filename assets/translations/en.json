@@ -1,0 +1,235 @@
+{
+  "app.name": "ESG2Go",
+  "language": {
+    "short": "中",
+    "en": "English",
+    "zh": "中文"
+  },
+  "environment": {
+    "local": "LOCAL",
+    "dev": "DEV",
+    "uat": "UAT",
+    "prod": "PROD"
+  },
+  "btn": {
+    "cancel": "Cancel",
+    "update": "Update",
+    "start": "Start",
+    "resend": "Resend",
+    "retry": "Resend in %s second(s)",
+    "next": "Next",
+    "goto_settings": "Goto Settings",
+    "transfer": "Transfer",
+    "notes": "Notes",
+    "done": "Done",
+    "view_more": "View More",
+    "check_in": "Check In",
+    "redeem": "Redeem({})",
+    "sold_out": "Out of Stock",
+    "to_redeem": "Redeem",
+    "ok": "OK",
+    "confirm": "Confirm",
+    "logout": "Logout",
+    "delete_account": "Delete Account"
+  },
+  "input": {
+    "mobile": {
+      "title": "Mobile",
+      "hint": "Mobile"
+    },
+    "id": {
+      "title": "Staff ID",
+      "hint": "Staff ID"
+    },
+    "name": {
+      "title": "Staff Name",
+      "hint": "Staff Name"
+    }
+  },
+  "login": {
+    "note": "Please enter your mobile number\nthen we will send OTP to verify"
+  },
+  "rule": {
+    "accept": "Click \"Next\", I accept the ",
+    "terms_conditions": "Terms and Conditions",
+    "and": " & ",
+    "privacy_policy": "Privacy Policy",
+    "end": ".",
+    "collect_data": "Your data will be collected to reflect selected company's ESG performance."
+  },
+  "terms_conditions": {
+    "title": "Terms & Conditions",
+    "url": "/esgc-terms-of-use.pdf"
+  },
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "url": "/esgc-privacy-policy.pdf"
+  },
+  "otp": {
+    "sent_to_mobile": "A message with OTP has been sent to {}.\nPlease enter the code to continue."
+  },
+  "info": {
+    "note": "Please input your information to verify your identity"
+  },
+  "tab": {
+    "redemption": "Prizes",
+    "contact": "Contact",
+    "scan": "Scan",
+    "home": "Home",
+    "activity": "Events",
+    "profile": "Me"
+  },
+  "title": {
+    "redemption": "Prizes",
+    "events": "Hot Events",
+    "contact": "Contact",
+    "home": "ESG2Go",
+    "activity": "ESG Events",
+    "profile": "Me",
+    "qrcode": "QRCode",
+    "settings": "Settings",
+    "asset_wallet": "My Asset",
+    "my_level": "My Level",
+    "my_activity": "My Activity",
+    "redemption_history": "Redemption History",
+    "transaction_history": "Transactions",
+    "experience": "Exp",
+    "start_datetime": "Start Date: {}",
+    "end_datetime": "End Date：{}",
+    "attend_no": "No of Attendance: {}",
+    "e_coin": "E coin",
+    "s_coin": "S coin",
+    "g_coin": "G coin",
+    "coin": "coin",
+    "coin_balance": "Total Coins",
+    "coming_soon": "Coming Soon"
+  },
+  "filter": {
+    "all": "All",
+    "gift": "Gift",
+    "lucky_draw": "Ticket",
+    "nft": "NFT",
+    "service": "Service",
+    "environmental": "E Type",
+    "social": "S Type",
+    "governance": "G Type"
+  },
+  "subtitle": {
+    "more": "More"
+  },
+  "scan": {
+    "title": "Scan",
+    "subtitle": "Scan the QR code to get rewards"
+  },
+  "transaction": {
+    "title": "Transaction History",
+    "subtitle": "See transaction history"
+  },
+  "settings": {
+    "section": {
+      "general": "General",
+      "information": "Information"
+    },
+    "tile": {
+      "environment": "Environment",
+      "language": "Language",
+      "mode": "Dark Mode",
+      "terms_conditions": {
+        "title": "Terms & Conditions",
+        "url": "/esgc-terms-of-use.pdf"
+      },
+      "privacy_policy": {
+        "title": "Privacy Policy",
+        "url": "/esgc-privacy-policy.pdf"
+      },
+      "faq": {
+        "title": "FAQ",
+        "url": "/esgc-about-qa.pdf"
+      }
+    },
+    "version": "Version"
+  },
+  "permission": {
+    "camera": {
+      "title": "Camera Permission",
+      "content": "Camera permission is required to scan QR code. You can grant in app settings."
+    }
+  },
+  "event": {
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "empty": "No Event"
+  },
+  "prize": {
+    "points": "{} Coins",
+    "sold_out": "Out of Stock"
+  },
+  "redeem": {
+    "points": "{} Coins",
+    "empty": "No Redemption"
+  },
+  "transactions": {
+    "points": "{} Coins",
+    "empty": "No Transaction"
+  },
+  "profile": {
+    "points": "X{}"
+  },
+  "lucky_draw": {
+    "ticket_no": "Your ticket No.:"
+  },
+  "dialog": {
+    "check_in": {
+      "title": "Check in successfully",
+      "content": "Got {points} {type} coins from \"{name}\""
+    },
+    "redeem": {
+      "title": "Redeem successfully",
+      "content": "Used {} coins to redeem \"{}\"",
+      "ticket_no": "Your ticket No.:{}\nThe lucky draw result will be informed via SMS. Stay tuned."
+    },
+    "prize": {
+      "title": "Redeem gift",
+      "content": "Confirm to use {} coins to redeem \"{}\"？"
+    },
+    "lucky_draw": {
+      "title": "Redeem lucky draw ticket",
+      "content": "Confirm to use {} coins to redeem \"{}\"？"
+    }
+  },
+  "logout": {
+    "title": "Logout",
+    "content": "Are you sure to sign out now?"
+  },
+  "delete_account": {
+    "title": "Delete Account",
+    "content": "Are you sure to delete account now?",
+    "notice": "Your account deletion request has been received. We'll notify you via SMS once the process is complete. Your account remains accessible in the meantime."
+  },
+  "inactive": {
+    "title": "Your account is locked",
+    "content": "Your account is locked, please contact inquiry@esg-c.org to release."
+  },
+  "exit": "Press again to exit",
+  "error": {
+    "title": "Error",
+    "network": "Network Error",
+    "invalid_qrcode": "Invalid Qrcode",
+    "1003": "Failed to redeem prize!",
+    "1004": "Insufficient points to redeem!",
+    "1005": "This prize does not belong to your organization!",
+    "1006": "You can redeem this prize once only!",
+    "1020": "The prize redemption has expired!",
+    "1021": "The prize was out of stock!",
+    "1022": "The prize was not started for redeem!",
+    "1023": "The prize was suspended for redeem!",
+    "1033": "Failed to scan event!",
+    "1034": "This event does not belong to your organization!",
+    "1040": "The event was closed!",
+    "1051": "The event was not started yet!",
+    "1052": "The event was reached total check-in limit!",
+    "1053": "You have reached the daily check-in limit!",
+    "1054": "This event allow check-in 1 time only! No more check-ins are accepted!",
+    "1055": "You have to wait {} hour(s) for next check-in!"
+  }
+}

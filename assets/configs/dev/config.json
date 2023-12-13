@@ -1,0 +1,19 @@
+{
+  "version": {
+    "number": "1.0.0",
+    "force_update": true,
+    "title": "New Version Available",
+    "title_zh": "版本更新",
+    "content": "A newer version of the app is available",
+    "content_zh": "新版本可供下載",
+    "url_ios": "",
+    "url_android": ""
+  },
+  "maintenance": {
+    "under_maintenance": false,
+    "title": "The Server is Under Maintenance",
+    "title_zh": "服務器正在修護",
+    "content": "We are currently under maintenance, please try later.",
+    "content_zh": "我們正在修護，請稍後再試。"
+  }
+}
