@@ -67,7 +67,7 @@
   },
   "privacy_policy": {
     "title": "私隱政策",
-    "url": "/esgc-privacy-policy.pdf"
+    "url": "/zh/membership/privacy-policy"
   },
   "otp": {
     "sent_to_mobile": "請填寫我們發送到\n{}的一次性驗證碼"
@@ -144,7 +144,7 @@
       },
       "privacy_policy": {
         "title": "私隱政策",
-        "url": "/esgc-privacy-policy.pdf"
+        "url": "/zh/membership/privacy-policy"
       },
       "faq": {
         "title": "常見問題",
