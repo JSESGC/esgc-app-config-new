@@ -63,7 +63,7 @@
   },
   "privacy_policy": {
     "title": "Privacy Policy",
-    "url": "/esgc-privacy-policy.pdf"
+    "url": "/membership/privacy-policy"
   },
   "otp": {
     "sent_to_mobile": "A message with OTP has been sent to {}.\nPlease enter the code to continue."
@@ -140,7 +140,7 @@
       },
       "privacy_policy": {
         "title": "Privacy Policy",
-        "url": "/esgc-privacy-policy.pdf"
+        "url": "/membership/privacy-policy"
       },
       "faq": {
         "title": "FAQ",
