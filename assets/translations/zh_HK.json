@@ -30,7 +30,9 @@
     "ok": "好的",
     "confirm": "確認",
     "logout": "登出",
-    "delete_account": "刪除帳戶"
+    "delete_account": "刪除帳戶",
+    "search_company": "搜尋公司",
+    "pass": "跳過"
   },
   "input": {
     "mobile": {
@@ -51,7 +53,9 @@
     }
   },
   "login": {
-    "note": "請輸入您的電話號碼\n我們會發送一次性驗證碼"
+    "note": "請輸入您的電話號碼\n我們會發送一次性驗證碼",
+    "membership": "會員號碼",
+    "company": "公司名稱"
   },
   "rule": {
     "accept": "按「下一步」，即表示閣下接受我們的",
@@ -73,7 +77,7 @@
     "sent_to_mobile": "請填寫我們發送到\n{}的一次性驗證碼"
   },
   "info": {
-    "note": "請填寫以下資料來核實您的身份"
+    "note": "請用你公司的會員號碼搜尋或掃描你公司的二維碼。默認為ESGC。"
   },
   "tab": {
     "redemption": "兌換",
@@ -164,6 +168,29 @@
     "end_date": "截止日",
     "empty": "暫時沒有活動"
   },
+  "vote": {
+    "result_0_title": "投票活動",
+    "result_0_title_b": "我哋投票啦",
+    "result_0_destitle": "多謝你嘅參與。",
+    "result_0_choose": "你揀咗",
+    "result_0_earn_0": "如果你嘅選擇係",
+    "result_0_earn_1": "噶話，你可以獲得",
+    "result_0_earn_2": "個",
+    "result_0_earn_3": "幣",
+    "result_0_earn_4": "噶話，你會獲得獎勵",
+    "result_0_ann": "結果會係以下時間後公佈",
+    "result_0_close": "關閉",
+    "result_1_earn_0": "你贏得咗",
+    "result_1_earn_1": "個",
+    "result_1_earn_2": "幣",
+    "result_1_congra": "恭喜你！",
+    "result_q_earn_0": "唔好意思，答案吾正確，你贏得咗",
+    "result_q_earn_1": "個",
+    "result_q_earn_2": "幣",
+    "result_q_congra": "恭喜你！",
+    "result_q_earn_3": "答案正確，你贏得咗",
+    "vote_start": "開始"
+  },
   "prize": {
     "points": "{}金幣",
     "sold_out": "沒有存貨"
@@ -234,6 +261,8 @@
     "1052": "此活動的總打卡次數已超上限！",
     "1053": "今天打卡次數已超過每日上限！",
     "1054": "此活動只容許你打卡一次！",
-    "1055": "你需在{}小時后才可再次打卡！"
+    "1055": "你需在{}小時后才可再次打卡！",
+    "3035": "會員號碼沒有對應的公司，請檢查會員號碼",
+    "3038": "請正確輸入會員號碼"
   }
 }

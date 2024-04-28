@@ -30,7 +30,9 @@
     "ok": "OK",
     "confirm": "Confirm",
     "logout": "Logout",
-    "delete_account": "Delete Account"
+    "delete_account": "Delete Account",
+    "search_company": "Search Company",
+    "pass": "Pass"
   },
   "input": {
     "mobile": {
@@ -47,7 +49,9 @@
     }
   },
   "login": {
-    "note": "Please enter your mobile number\nthen we will send OTP to verify"
+    "note": "Please enter your mobile number\nthen we will send OTP to verify",
+    "membership": "Menbership Number",
+    "company": "Company Name"
   },
   "rule": {
     "accept": "Click \"Next\", I accept the ",
@@ -69,7 +73,7 @@
     "sent_to_mobile": "A message with OTP has been sent to {}.\nPlease enter the code to continue."
   },
   "info": {
-    "note": "Please input your information to verify your identity"
+    "note": "Please search your company with membership number or scan your company’s QR code. Default is ESGC."
   },
   "tab": {
     "redemption": "Prizes",
@@ -160,6 +164,29 @@
     "end_date": "End Date",
     "empty": "No Event"
   },
+  "vote": {
+    "result_0_title": "Voting",
+    "result_0_title_b": "Let's Vote",
+    "result_0_desctitle": "Thank you for your participation",
+    "result_0_choose": "You choose",
+    "result_0_earn_0": "If your vote choice aligns is",
+    "result_0_earn_1": ", you have the potential to earn",
+    "result_0_earn_2": "",
+    "result_0_earn_3": "coins",
+    "result_0_earn_4": ", you will get some coins",
+    "result_0_ann": "The result will be announced on",
+    "result_0_close": "Close",
+    "result_1_earn_0": "You won",
+    "result_1_earn_1": "",
+    "result_1_earn_2": "coins",
+    "result_1_congra": "Congratulation!",
+    "result_q_earn_0": "Sorry, answer incorrect, you've earn",
+    "result_q_earn_1": "",
+    "result_q_earn_2": "coins",
+    "result_q_congra": "Congratulation!",
+    "result_q_earn_3": "Answer correct, you've earn",
+    "vote_start": "Start"
+  },
   "prize": {
     "points": "{} Coins",
     "sold_out": "Out of Stock"
@@ -230,6 +257,8 @@
     "1052": "The event was reached total check-in limit!",
     "1053": "You have reached the daily check-in limit!",
     "1054": "This event allow check-in 1 time only! No more check-ins are accepted!",
-    "1055": "You have to wait {} hour(s) for next check-in!"
+    "1055": "You have to wait {} hour(s) for next check-in!",
+    "3035": "Failed to get organization information from user service",
+    "3038": "Missing Membership ID parameter(membershipId). Cannot be empty."
   }
 }
