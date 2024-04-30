@@ -50,7 +50,7 @@
   },
   "login": {
     "note": "Please enter your mobile number\nthen we will send OTP to verify",
-    "membership": "Menbership Number",
+    "membership": "Membership Number",
     "company": "Company Name"
   },
   "rule": {
