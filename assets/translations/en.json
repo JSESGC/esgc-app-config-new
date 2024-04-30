@@ -73,7 +73,7 @@
     "sent_to_mobile": "A message with OTP has been sent to {}.\nPlease enter the code to continue."
   },
   "info": {
-    "note": "Please search your company with membership number or scan your company’s QR code. Default is ESGC."
+    "note": "Please search your company with membership number or scan company’s QR code. Default is ESGC."
   },
   "tab": {
     "redemption": "Prizes",
