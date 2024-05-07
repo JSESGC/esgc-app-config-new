@@ -188,7 +188,9 @@
     "vote_start": "Start",
     "result_q_earn_0_new": "Sorry, answer incorrect.",
     "result_q_earn_4": "You've earn",
-    "result_q_earn_3_new": "Answer correct."
+    "result_q_earn_3_new": "Answer correct.",
+    "vote_error": "network issue, please try again.",
+    "vote_error_btn": "return"
   },
   "prize": {
     "points": "{} Coins",
