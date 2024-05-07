@@ -189,7 +189,10 @@
     "result_q_earn_2": "幣",
     "result_q_congra": "恭喜你！",
     "result_q_earn_3": "答案正確，你贏得咗",
-    "vote_start": "開始"
+    "vote_start": "開始",
+    "result_q_earn_0_new": "唔好意思，答案吾正確。",
+    "result_q_earn_4": "你贏得咗",
+    "result_q_earn_3_new": "答案正確。"
   },
   "prize": {
     "points": "{}金幣",
