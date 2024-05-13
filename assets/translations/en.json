@@ -81,7 +81,7 @@
     "scan": "Scan",
     "home": "Home",
     "activity": "Events",
-    "profile": "Me"
+    "profile": "Profile"
   },
   "title": {
     "redemption": "Prizes",
@@ -89,7 +89,7 @@
     "contact": "Contact",
     "home": "ESG2Go",
     "activity": "ESG Events",
-    "profile": "Me",
+    "profile": "Profile",
     "qrcode": "QRCode",
     "settings": "Settings",
     "asset_wallet": "My Asset",

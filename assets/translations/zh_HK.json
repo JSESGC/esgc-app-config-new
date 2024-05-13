@@ -85,7 +85,7 @@
     "scan": "掃描",
     "home": "首頁",
     "activity": "活動",
-    "profile": "我的"
+    "profile": "我的記錄"
   },
   "title": {
     "redemption": "禮品兌換",
@@ -93,7 +93,7 @@
     "contact": "通訊",
     "home": "ESG環友理",
     "activity": "ESG獎賞活動",
-    "profile": "我的",
+    "profile": "我的記錄",
     "qrcode": "二維碼",
     "settings": "設置",
     "asset_wallet": "我的資產",
