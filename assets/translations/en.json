@@ -84,6 +84,7 @@
     "profile": "Profile"
   },
   "title": {
+    "checkin": "Check-in get Prizes",
     "redemption": "Prizes",
     "events": "Hot Events",
     "contact": "Contact",
@@ -192,6 +193,18 @@
     "vote_error": "network issue, please try again.",
     "vote_error_btn": "return"
   },
+  "quiz": {
+    "result_title": "Thank you for your participation",
+    "quiz_name": "Quiz",
+    "quiz_uncorrect": " Sorry, answer incorrect.",
+    "quiz_correct": " Answer correct.",
+    "quiz_enum": " ",
+    "quiz_earn": " coin(s).",
+    "quiz_submit": "uploading..."
+  },
+  "checkin": {
+    "btn": "Check-in"
+  },
   "prize": {
     "points": "{} Coins",
     "sold_out": "Out of Stock"
@@ -227,6 +240,11 @@
     "lucky_draw": {
       "title": "Redeem lucky draw ticket",
       "content": "Confirm to use {} coins to redeem \"{}\"？"
+    },
+    "daily": {
+      "title": "check-in have fun",
+      "content": "Daily check-ins can earn you different types of coins. There's a special reward for completing seven consecutive days of check-ins!",
+      "btn": "Confirm"
     }
   },
   "logout": {

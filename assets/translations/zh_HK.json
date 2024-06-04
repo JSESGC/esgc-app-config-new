@@ -88,6 +88,7 @@
     "profile": "我的記錄"
   },
   "title": {
+    "checkin": "簽到摞獎",
     "redemption": "禮品兌換",
     "events": "熱門活動",
     "contact": "通訊",
@@ -196,6 +197,18 @@
     "vote_error": "網絡錯誤，請重試。",
     "vote_error_btn": "返回"
   },
+  "quiz": {
+    "result_title": "多謝你嘅參與",
+    "quiz_name": "提問",
+    "quiz_uncorrect": " 吾好意思，回答錯誤。",
+    "quiz_correct": " 恭喜你，回答正確。",
+    "quiz_enum": " 個",
+    "quiz_earn": " 幣。",
+    "quiz_submit": "提交中..."
+  },
+  "checkin": {
+    "btn": "立即簽到"
+  },
   "prize": {
     "points": "{}金幣",
     "sold_out": "沒有存貨"
@@ -231,6 +244,11 @@
     "lucky_draw": {
       "title": "兌換抽奖券",
       "content": "確認使用{}個金幣兌換「{}」？"
+    },
+    "daily": {
+      "title": "打卡一齊fun",
+      "content": "每日打卡可以獲得唔同種類噶幣，連續七日有特別獎賞喔！",
+      "btn": "確認"
     }
   },
   "logout": {
