@@ -88,7 +88,7 @@
     "profile": "我的記錄"
   },
   "title": {
-    "checkin": "簽到摞獎",
+    "checkin": "簽到摞G幣",
     "redemption": "禮品兌換",
     "events": "熱門活動",
     "contact": "通訊",
@@ -207,7 +207,9 @@
     "quiz_submit": "提交中..."
   },
   "checkin": {
-    "btn": "立即簽到"
+    "btn": "立即簽到",
+    "success_message": "提交中...",
+    "disable_message": "每日可以簽到1次，次月清零"
   },
   "prize": {
     "points": "{}金幣",
@@ -244,11 +246,6 @@
     "lucky_draw": {
       "title": "兌換抽奖券",
       "content": "確認使用{}個金幣兌換「{}」？"
-    },
-    "daily": {
-      "title": "打卡一齊fun",
-      "content": "每日打卡可以獲得唔同種類噶幣，連續七日有特別獎賞喔！",
-      "btn": "確認"
     }
   },
   "logout": {

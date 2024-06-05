@@ -84,7 +84,7 @@
     "profile": "Profile"
   },
   "title": {
-    "checkin": "Check-in get Prizes",
+    "checkin": "Check-in get G Coins",
     "redemption": "Prizes",
     "events": "Hot Events",
     "contact": "Contact",
@@ -203,7 +203,9 @@
     "quiz_submit": "uploading..."
   },
   "checkin": {
-    "btn": "Check-in"
+    "btn": "Check-in",
+    "success_message": "Submitting",
+    "disable_message": "Once per day, resets at next month."
   },
   "prize": {
     "points": "{} Coins",
@@ -240,11 +242,6 @@
     "lucky_draw": {
       "title": "Redeem lucky draw ticket",
       "content": "Confirm to use {} coins to redeem \"{}\"？"
-    },
-    "daily": {
-      "title": "check-in have fun",
-      "content": "Daily check-ins can earn you different types of coins. There's a special reward for completing seven consecutive days of check-ins!",
-      "btn": "Confirm"
     }
   },
   "logout": {
