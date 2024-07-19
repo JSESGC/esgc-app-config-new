@@ -10,7 +10,7 @@
     "url_android": ""
   },
   "maintenance": {
-    "under_maintenance": true,
+    "under_maintenance": false,
     "title": "The Server is Under Maintenance",
     "title_zh": "服務器正在修護",
     "content": "We are currently under maintenance, please try later.",
