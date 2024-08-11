@@ -11,9 +11,9 @@
   },
   "maintenance": {
     "under_maintenance": true,
-    "title": "The Server is Under Maintenance",
-    "title_zh": "服務器正在修護",
-    "content": "We are currently under maintenance, please try later.",
-    "content_zh": "我們正在修護，請稍後再試。"
+    "title": "System upgrading...",
+    "title_zh": "系統升級中...",
+    "content": "2024.08.01 - 2024.09.31",
+    "content_zh": "2024.08.01 - 2024.09.31"
   }
 }
